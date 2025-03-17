@@ -1,0 +1,5 @@
+qr_app/__pycache__
+qr_app/migrations
+scanner/__pycache__
+db.sqlite3
+venv
